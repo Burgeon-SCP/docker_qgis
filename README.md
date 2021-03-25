@@ -1,4 +1,4 @@
-# docker_qgis
+# docker-qgis
 Container-based QGis from debian stable distribuition with shared display.
 
 ## NOTES [2018/06/12]
